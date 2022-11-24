@@ -11,8 +11,8 @@ Repositório com todos os projetos feitos durante a formação em grupo devNinja
 - Vue.JS
 
 
-## Projetos Finalizados 🚀
+## Projetos HTML e CSS - Básico 🚀
 
- - [HTML/CSS Basic](https://github.com/gustavoUlisses/projetos-devninja)
- - [HTML/CSS Semantic](https://github.com/gustavoUlisses/projetos-devninja)
- - [HTML/CSS Forms](https://github.com/gustavoUlisses/projetos-devninja)
+ - [HTML/CSS Básico](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-1)
+ - [HTML/CSS Semântica](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-2)
+ - [HTML/CSS Formulário](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-3)
