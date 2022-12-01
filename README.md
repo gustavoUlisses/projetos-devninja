@@ -15,4 +15,4 @@ Repositório com todos os projetos feitos durante a formação em grupo devNinja
 
  - [HTML/CSS Básico](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-1)
  - [HTML/CSS Semântica](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-2)
- - [HTML/CSS Formulário](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-3)
+ - [HTML/CSS Responsivo](https://github.com/gustavoUlisses/projetos-devninja/tree/main/projeto-3)
